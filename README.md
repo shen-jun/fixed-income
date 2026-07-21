@@ -1,6 +1,6 @@
 # Fixed Income Analytics Platform
 
-A from-scratch fixed income analytics toolkit covering Treasury bond pricing, yield curve
+A fixed income analytics toolkit covering Treasury bond pricing, yield curve
 construction and interpolation, duration/convexity/key-rate risk measures, curve shock
 scenarios, and portfolio-level aggregation, wrapped in a Streamlit dashboard. Everything is
 plain Python + `for` loops where the math actually happens -- there's no hidden vectorized

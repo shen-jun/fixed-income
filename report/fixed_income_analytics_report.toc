@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {1}Scope and Notation}{2}{section.1}%
+\contentsline {section}{\numberline {2}Coupon Schedule Construction}{2}{section.2}%
+\contentsline {paragraph}{Worked example.}{2}{section*.2}%
+\contentsline {section}{\numberline {3}Bond Pricing}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Full-period pricing}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Fractional-period pricing (settlement between coupon dates)}{3}{subsection.3.2}%
+\contentsline {paragraph}{Worked example.}{3}{section*.3}%
+\contentsline {section}{\numberline {4}Accrued Interest and Clean vs. Dirty Price}{4}{section.4}%
+\contentsline {paragraph}{Worked example.}{4}{section*.4}%
+\contentsline {section}{\numberline {5}Yield to Maturity: The Inverse Problem}{4}{section.5}%
+\contentsline {paragraph}{Worked example.}{4}{section*.5}%
+\contentsline {section}{\numberline {6}Yield Curve Interpolation}{4}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Linear interpolation}{5}{subsection.6.1}%
+\contentsline {paragraph}{Worked example.}{5}{section*.6}%
+\contentsline {subsection}{\numberline {6.2}Cubic spline interpolation}{5}{subsection.6.2}%
+\contentsline {paragraph}{Worked example.}{5}{section*.7}%
+\contentsline {subsection}{\numberline {6.3}Nelson-Siegel model}{6}{subsection.6.3}%
+\contentsline {paragraph}{Calibration without a nonlinear optimizer.}{6}{section*.8}%
+\contentsline {paragraph}{Worked example.}{6}{section*.9}%
+\contentsline {subsection}{\numberline {6.4}Nelson-Siegel-Svensson (NSS) extension}{7}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Duration}{7}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Macaulay duration}{7}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Modified duration}{7}{subsection.7.2}%
+\contentsline {paragraph}{Worked example.}{8}{section*.10}%
+\contentsline {section}{\numberline {8}DV01 (Dollar Duration)}{8}{section.8}%
+\contentsline {paragraph}{Worked example.}{8}{section*.11}%
+\contentsline {section}{\numberline {9}Convexity}{8}{section.9}%
+\contentsline {paragraph}{Worked example.}{9}{section*.12}%
+\contentsline {section}{\numberline {10}Key Rate Duration and KR01}{9}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Discounting off the curve}{9}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Triangular key rate shocks}{9}{subsection.10.2}%
+\contentsline {paragraph}{Worked example.}{10}{section*.13}%
+\contentsline {section}{\numberline {11}Yield Curve Shocks}{10}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Parallel shocks}{10}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Non-parallel shocks}{10}{subsection.11.2}%
+\contentsline {paragraph}{Worked example.}{11}{section*.14}%
+\contentsline {subsection}{\numberline {11.3}P\&L attribution}{11}{subsection.11.3}%
+\contentsline {section}{\numberline {12}Portfolio Aggregation}{11}{section.12}%
+\contentsline {paragraph}{Worked example.}{11}{section*.15}%
+\contentsline {section}{\numberline {13}Modeling Simplifications and Limitations}{12}{section.13}%
